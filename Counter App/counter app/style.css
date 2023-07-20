@@ -1,0 +1,37 @@
+
+  body {
+    height: 100vh;
+    display: flex;
+    /* color: #7fffd4; */
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fa101043;
+    gap: 10px;
+    padding: 20px;
+    border: 2px sloid #080808;
+    border-radius: 5px;
+  }
+  
+
+  button {
+    padding: 5px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #d8ca6e;
+
+  }
+  
+  #displayValue {
+    font-size: 25px;
+    padding: 5px 15px;
+    border: 1px solid #080808;
+    /* color: #7fffd4; */
+  }

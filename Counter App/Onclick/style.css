@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box{
+    width: 25rem;
+    background-color: #ffc0cb;
+    cursor: pointer;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
+
+/* body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#box{
+    width: 25rem;
+    background-color: #f5eded;
+    cursor: pointer;
+    color: #110f12;
+    text-align: center;
+    border-radius: 5px;
+    font: 25px;
+} */
